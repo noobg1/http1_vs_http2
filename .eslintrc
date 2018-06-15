@@ -1,0 +1,16 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "extends": "airbnb-base",
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "sourceType": "module"
+  },
+  "rules": {
+    "comma-dangle": [0, "always-multiline"],
+    "import/no-extraneous-dependencies": [0, {"devDependencies": true}],
+    "arrow-body-style": 0
+  }
+}

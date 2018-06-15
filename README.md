@@ -1,0 +1,1 @@
+# Integrating hapijs server with node's http2 support
