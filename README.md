@@ -26,7 +26,9 @@ Now navigate to `http://127.0.0.1:8002` and `https://127.0.0.1:8000` in differen
 ![Demo](out.gif?raw=true "Demo : gui mode")
 
 ### Note:
-> credits to https://www.onlineconverter.com/ for helping to convert vidoe to gif
+credits to:
+  - https://www.onlineconverter.com/ for helping to convert video to gif
+  - https://imagesplitter.net/ for splitting image into tiles
 
 > Feel free to use image-tiles as you like in public folder; I clicked it :sunglasses:
 
