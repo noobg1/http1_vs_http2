@@ -10,11 +10,12 @@ cd http1_vs_http
 yarn
 ```
 > Since we need two servers, one serving http1 and the other http2
-> In one terminal run,
+
+In one terminal run,
 ```
 node http1Server.js
 ```
-> In another
+In another
 ```
 node http2Server.js
 ```
