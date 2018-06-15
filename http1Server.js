@@ -2,7 +2,7 @@ const Hapi = require('hapi');
 const server = new Hapi.Server();
 const Inert = require('inert');
 const routes = require('./routes/index'); 
-const {connectionOptions } = require('./config/common');
+const { connectionOptions } = require('./config/common');
 
 // create a connection object with listener and other options
 server.connection({
@@ -10,8 +10,9 @@ server.connection({
   port: '8002'
 });
 
+// registering plugins
 server.register([{
-  register: Inert
+  register: Inert // Inert to server static files
 }]);
 
 // define routes

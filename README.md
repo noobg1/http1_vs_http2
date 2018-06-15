@@ -25,4 +25,8 @@ Now navigate to `http://127.0.0.1:8002` and `https://127.0.0.1:8000` in differen
 ### Voila! You should be seeing this
 ![Demo](out.gif?raw=true "Demo : gui mode")
 
+### Note:
+> credits to https://www.onlineconverter.com/ for helping to convert vidoe to gif
+> Feel free to image tiles as you like in public folder; I clicked it :sunglasses:
+
 

@@ -14,8 +14,9 @@ server.connection({
   ...connectionOptions
 });
 
+// registering plugins
 server.register([{
-  register: Inert
+  register: Inert // Inert to server static files
 }]);
 
 // define routes

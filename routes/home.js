@@ -6,7 +6,6 @@ module.exports = [
       description: 'Serves static content for base (/) route',
       notes: 'Serves static content for base (/) route',
       tags: ['api'],
-      auth: false,
       handler: {
         directory: {
           path: '.',
