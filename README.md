@@ -1,6 +1,6 @@
 # http1.1 vs http2 using node's http2 and hapijs
 
-For explanation, differences, what http2 can over please follow this [link](https://medium.com/@noobj/)
+For explanation, differences, what http2 can over please follow this [link](https://medium.com/@noobj/exploring-http2-part-1-overview-dc3e9b53968f)
 
 # To Run on your machine!
 ```
