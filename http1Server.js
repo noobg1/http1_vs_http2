@@ -7,7 +7,7 @@ const {connectionOptions } = require('./config/common');
 // create a connection object with listener and other options
 server.connection({
   ...connectionOptions,
-  port: '9000'
+  port: '8002'
 });
 
 server.register([{

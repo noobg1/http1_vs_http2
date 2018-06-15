@@ -19,7 +19,7 @@ node http1Server.js
 node http2Server.js
 ```
 
-Now navigate to `http://127.0.0.1:9000` and `https://127.0.0.1:8000` in different tabs
+Now navigate to `http://127.0.0.1:8002` and `https://127.0.0.1:8000` in different tabs
 
 
 ### Voila! You should be seeing this
